@@ -3,5 +3,5 @@
 CALCULATOR APP
 
 Designed a simple calculator with basic arithmetic operations.
-Prompt the user to input two numbers and an operation choice.
+Prompted the user to input two numbers and an operation choice and
 Perform the calculation and display the result.
